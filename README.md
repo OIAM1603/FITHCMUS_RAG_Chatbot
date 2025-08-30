@@ -4,6 +4,17 @@
 
 Dự án xây dựng một **chatbot dựa trên Retrieval-Augmented Generation (RAG)**, giúp sinh viên và giảng viên **tra cứu nhanh, chính xác** các thông tin về **chương trình đào tạo ngành Công nghệ Thông tin** (chương trình Chuẩn) tại **Trường Đại học Khoa học Tự nhiên – ĐHQG.HCM**.
 
+---
+
+## **Demo**
+
+* **Video demo:** https://youtu.be/O_b75FD5jB4
+* **Giao diện chính:**
+
+  * Trang chủ, hỏi đáp, FAQ, và gửi phản hồi.
+
+---
+
 ## **Mục tiêu**
 
 * Hỗ trợ **tìm kiếm thông tin nhanh chóng** về ngành, chuyên ngành, tín chỉ, và mô tả môn học.
@@ -72,15 +83,6 @@ npm run dev
   * SBERT Similarity: **0.88**
 * **Tính chính xác ngữ cảnh:** 92.7%
 * **Faithfulness (độ trung thực):** 91.4%
-
----
-
-## **Demo**
-
-* **Video demo:** https://youtu.be/O_b75FD5jB4
-* **Giao diện chính:**
-
-  * Trang chủ, hỏi đáp, FAQ, và gửi phản hồi.
 
 ---
 
