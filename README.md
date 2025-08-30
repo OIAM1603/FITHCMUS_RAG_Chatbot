@@ -77,7 +77,7 @@ npm run dev
 
 ## **Demo**
 
-* **Video demo & mã nguồn chi tiết:** [Link Google Drive](https://drive.google.com/drive/folders/1PPkMPZAdiEVXduaSvcBjh3QLbIx9A9pe?usp=sharing)
+* **Video demo:** https://youtu.be/O_b75FD5jB4
 * **Giao diện chính:**
 
   * Trang chủ, hỏi đáp, FAQ, và gửi phản hồi.
