@@ -79,7 +79,7 @@ npm run dev
 * **Generation (gemini-1.5-flash):**
 
   * BLEU: **0.60**
-  * ROUGE-1: **0.82**
+  * ROUGE-L: **0.82**
   * SBERT Similarity: **0.88**
 * **Tính chính xác ngữ cảnh:** 92.7%
 * **Faithfulness (độ trung thực):** 91.4%
